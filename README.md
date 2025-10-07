@@ -18,7 +18,7 @@ cd dio-desafio-banco.
 python desafio.py
 
 ## Como Usar o Sistema
-Ao executar o arquivo, você terá o menu interativo:
+```Ao executar o arquivo, você terá o menu interativo:
 ================ MENU ================
 [d]     Depositar
 [s]     Sacar
@@ -26,7 +26,7 @@ Ao executar o arquivo, você terá o menu interativo:
 [nc]    Nova conta
 [lc]    Listar contas
 [nu]    Novo usuário
-[q]     Sair
+[q]     Sair```
 ## Siga os passos abaixo para utilizar o sistema:
 1. Comece criando um **novo usuário** (nu).
 2. Em seguida, crie uma **nova conta** (nc) vinculada a esse usuário.
